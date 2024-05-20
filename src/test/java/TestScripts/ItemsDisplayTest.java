@@ -17,7 +17,7 @@ public class ItemsDisplayTest {
 	
 	@Test 
 	public void TestItemsDisplay() {
-		//6th test case
+		//6th test case updated by mahesh
 		ObjApp.LaunchApplication("Chrome");
 		ObjApp.LogintoApplication();
 		ObjApp.NavigateToMensTops();
